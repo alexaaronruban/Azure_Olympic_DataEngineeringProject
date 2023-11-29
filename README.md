@@ -1,4 +1,4 @@
-# Azure_Olympic_DataEngineeringProject
+# Azure Olympic Data Engineering Project
 
 1. Data Ingestion with Azure Data Factory (ADF):
 Objective: Move data from source to staging area.
